@@ -1,1 +1,1 @@
-hi this is my second maven project 
+hi this is my first ci maven project 
